@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(68, 67, 67);
 }
 
 li {
@@ -20,5 +20,5 @@ li {
 
 /* Change the link color to #111 (black) on hover */
 .navBar:hover {
-  background-color: rgb(240, 18, 18);
+  background-color: rgb(18, 240, 129);
 }
